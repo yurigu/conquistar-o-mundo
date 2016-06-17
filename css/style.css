@@ -342,6 +342,7 @@ h5{
 #big-header {
 	position: relative;
 	padding: 170px 0px 150px;
+	background: whitesmoke;
 }
 
 .big-header-content{
@@ -349,6 +350,12 @@ h5{
 	color: #fff;
 	max-width: 800px;
 	margin: 0 auto;
+}
+
+.big-header-title{
+	font-size: 60px;
+	line-height: 80px;
+	color: #454545;
 }
 
 /*SLIDER HEADER 
