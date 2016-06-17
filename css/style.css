@@ -233,6 +233,7 @@ h5{
 	color: #fff;
 	position: relative;
 	margin-top: 20px;
+	border-radius: 50px;
 }
 .btn-default,.btn-default.featured{
 	-webkit-transition: all .3s linear 0s;
@@ -345,6 +346,10 @@ h5{
 	background: whitesmoke;
 }
 
+.big-header-image {
+	
+}
+
 .big-header-content{
 	margin-top: 0px;
 	color: #fff;
@@ -353,16 +358,21 @@ h5{
 }
 
 .big-header-title{
-	font-size: 25px;
-	line-height: 80px;
+	margin: 80px 0 0 0;
+	font-size: 40px;
+	font-weight: 400;
+	line-height: 60px;
 	color: #575757;
 }
 
-.big-hdeader-subtitle {
-	font-size: 16px;
-	line-height: 80px;
+.big-header-subtitle {
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 0px;
 	color: #575757;
 }
+
+#big-header .btn-container { margin: 50px 0 0 0; }
 
 /*SLIDER HEADER 
 ============================================================*/
