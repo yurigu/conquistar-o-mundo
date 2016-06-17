@@ -353,9 +353,15 @@ h5{
 }
 
 .big-header-title{
-	font-size: 60px;
+	font-size: 25px;
 	line-height: 80px;
-	color: #454545;
+	color: #575757;
+}
+
+.big-hdeader-subtitle {
+	font-size: 16px;
+	line-height: 20px;
+	color: #575757;
 }
 
 /*SLIDER HEADER 
