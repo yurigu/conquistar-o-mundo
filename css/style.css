@@ -336,6 +336,20 @@ h5{
     background-color: #fff;
 }
 
+/* BIG HEADER 
+============================================================*/
+
+#big-header {
+	position: relative;
+	padding: 170px 0px 150px;
+}
+
+.big-header-content{
+	margin-top: 0px;
+	color: #fff;
+	max-width: 800px;
+	margin: 0 auto;
+}
 
 /*SLIDER HEADER 
 ============================================================*/
