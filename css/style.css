@@ -300,9 +300,8 @@ h5{
 }
 
 #tf-menu.navbar-default .navbar-nav > li > a {
-	text-transform: uppercase;
-	color: #FFF;
-	font-size: 14px;
+	color: #454545;
+	font-size: 16px;
 	font-weight: 600;
 }
 .on{
@@ -319,13 +318,13 @@ h5{
 }
 
 .navbar-brand {
-   margin-top: -18px;
+   margin-top: 0px;
 }
 .navbar-default .navbar-nav  a:hover{
-	color: #00AEFF!important;
+	color: #969696!important;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
-    color: #00AEFF!important;
+    color: #969696!important;
     background: transparent;
 }
 
@@ -359,14 +358,14 @@ h5{
 
 .big-header-title{
 	margin: 80px 0 0 0;
-	font-size: 40px;
+	font-size: 42px;
 	font-weight: 400;
 	line-height: 60px;
 	color: #575757;
 }
 
 .big-header-subtitle {
-	font-size: 20px;
+	font-size: 22px;
 	font-weight: 400;
 	line-height: 0px;
 	color: #575757;

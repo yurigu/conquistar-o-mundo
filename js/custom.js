@@ -7,31 +7,6 @@
 
   
 */
-
-
-$(window).load(function() { // makes sure the whole site is loaded
-  "use strict";
-
-  /* ==============================================
-      Menu toggle
-    =============================================== */ 
-    $(window).bind('scroll', function() {
-        var navHeight = $(window).height() - 40;
-        if ($(window).scrollTop() > navHeight) {
-            $('.navbar-default').addClass('on');
-        } else {
-            $('.navbar-default').removeClass('on');
-        }
-    });
-
-    $('body').scrollspy({ 
-        target: '.navbar-default',
-        offset: 70
-    })
- 
-
-});
-
   
 
 $(document).ready(function(){
