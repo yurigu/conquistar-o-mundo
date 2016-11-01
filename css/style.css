@@ -359,16 +359,16 @@ h5{
 .big-header-title{
 	font-family: 'Itim', cursive;
 	margin: 80px 0 0 0;
-	font-size: 42px;
+	font-size: 70px;
 	font-weight: 400;
-	line-height: 60px;
+	line-height: 70px;
 	color: #575757;
 }
 
 .big-header-subtitle {
 	font-size: 22px;
 	font-weight: 400;
-	line-height: 0px;
+	line-height: 20px;
 	color: #575757;
 }
 
