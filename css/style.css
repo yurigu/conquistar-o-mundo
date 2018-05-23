@@ -1204,6 +1204,11 @@ h5{
 /*FOoter
 =========================================================================*/
 
+.contato {
+	
+	
+}
+
 #footer{
 	padding: 50px 0px;
 }
@@ -1234,7 +1239,7 @@ h5{
 
 .copyright span{
 	color: #00AEFF;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Itim', cursive;
 }
 
 /*Overlay
