@@ -1205,7 +1205,9 @@ h5{
 =========================================================================*/
 
 .contato {
-	
+	position: relative;
+	padding: 170px 0px 150px;
+	background: whitesmoke;
 	
 }
 
